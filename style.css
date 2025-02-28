@@ -15,6 +15,12 @@ button {
   appearance: none;
 }
 
+.hidden {
+  display: none;
+}
+.show {
+  display: block;
+}
 .preview {
   margin: 100px 0;
 }
